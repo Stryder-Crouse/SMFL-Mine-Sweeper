@@ -1,2 +1,2 @@
 # SMFL-Mine-Sweeper
-Coded from scratch using SFML library mine sweeper game with two solver algorithms implemented
+Coded from scratch using SFML library mine sweeper game with a solver algorithm implemented
